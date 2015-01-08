@@ -31,7 +31,7 @@
 						if (e.ctrlKey&&k=='v') e.preventDefault();
 						
 						// get the value length
-						var length = $(this).val().length;)
+						var length = $(this).val().length;
 						
 						if( length >= p.maxLen ) {
 							e.preventDefault();
